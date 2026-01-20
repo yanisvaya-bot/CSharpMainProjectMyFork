@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\\u042F\u043D\u0430 \u041F\u0443\u0441\u0438\u043D\u0430\\CSharpMainProjectMyFork\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A49BA194-5C47-A0B3-F237-E5A208BF7BB2}|Tests.csproj|c:\\users\\\u044F\u043D\u0430 \u043F\u0443\u0441\u0438\u043D\u0430\\csharpmainprojectmyfork\\assets\\scripts\\editor\\tests\\tests.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A49BA194-5C47-A0B3-F237-E5A208BF7BB2}|Tests.csproj|solutionrelative:assets\\scripts\\editor\\tests\\tests.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u042F\u043D\u0430 \u041F\u0443\u0441\u0438\u043D\u0430\\CSharpMainProjectMyFork\\Library\\PackageCache\\com.unity.test-framework@1.1.33\\UnityEditor.TestRunner\\GUI\\Views\\EditModeTestListGUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.test-framework@1.1.33\\UnityEditor.TestRunner\\GUI\\Views\\EditModeTestListGUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C12C09C7-888C-7364-148B-3BC33A05AB3F}|Root.csproj|c:\\users\\\u044F\u043D\u0430 \u043F\u0443\u0441\u0438\u043D\u0430\\csharpmainprojectmyfork\\assets\\scripts\\model\\runtime\\projectiles\\archtotileprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C12C09C7-888C-7364-148B-3BC33A05AB3F}|Root.csproj|C:\\Users\\\u042F\u043D\u0430 \u041F\u0443\u0441\u0438\u043D\u0430\\CSharpMainProjectMyFork\\assets\\scripts\\model\\runtime\\projectiles\\archtotileprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C12C09C7-888C-7364-148B-3BC33A05AB3F}|Root.csproj|solutionrelative:assets\\scripts\\model\\runtime\\projectiles\\archtotileprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -59,6 +63,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Tests.asmdef",
+              "DocumentMoniker": "C:\\Users\\\u042F\u043D\u0430 \u041F\u0443\u0441\u0438\u043D\u0430\\CSharpMainProjectMyFork\\Assets\\Scripts\\Editor\\Tests\\Tests.asmdef",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Editor\\Tests\\Tests.asmdef",
+              "ToolTip": "C:\\Users\\\u042F\u043D\u0430 \u041F\u0443\u0441\u0438\u043D\u0430\\CSharpMainProjectMyFork\\Assets\\Scripts\\Editor\\Tests\\Tests.asmdef",
+              "RelativeToolTip": "Assets\\Scripts\\Editor\\Tests\\Tests.asmdef",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001874|",
+              "WhenOpened": "2026-01-19T17:25:50.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "EditModeTestListGUI.cs",
               "DocumentMoniker": "C:\\Users\\\u042F\u043D\u0430 \u041F\u0443\u0441\u0438\u043D\u0430\\CSharpMainProjectMyFork\\Library\\PackageCache\\com.unity.test-framework@1.1.33\\UnityEditor.TestRunner\\GUI\\Views\\EditModeTestListGUI.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.test-framework@1.1.33\\UnityEditor.TestRunner\\GUI\\Views\\EditModeTestListGUI.cs",
@@ -71,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "SecondUnitBrain.cs",
               "DocumentMoniker": "C:\\Users\\\u042F\u043D\u0430 \u041F\u0443\u0441\u0438\u043D\u0430\\CSharpMainProjectMyFork\\Assets\\Scripts\\UnitBrains\\Player\\SecondUnitBrain.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UnitBrains\\Player\\SecondUnitBrain.cs",
@@ -83,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "BotController.cs",
               "DocumentMoniker": "C:\\Users\\\u042F\u043D\u0430 \u041F\u0443\u0441\u0438\u043D\u0430\\CSharpMainProjectMyFork\\Assets\\Scripts\\Controller\\BotController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\BotController.cs",
@@ -95,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "BaseUnitBrain.cs",
               "DocumentMoniker": "C:\\Users\\\u042F\u043D\u0430 \u041F\u0443\u0441\u0438\u043D\u0430\\CSharpMainProjectMyFork\\Assets\\Scripts\\UnitBrains\\BaseUnitBrain.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UnitBrains\\BaseUnitBrain.cs",
@@ -107,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ArchToTileProjectile.cs",
               "DocumentMoniker": "C:\\Users\\\u042F\u043D\u0430 \u041F\u0443\u0441\u0438\u043D\u0430\\CSharpMainProjectMyFork\\Assets\\Scripts\\Model\\Runtime\\Projectiles\\ArchToTileProjectile.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Model\\Runtime\\Projectiles\\ArchToTileProjectile.cs",
@@ -115,12 +132,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Model\\Runtime\\Projectiles\\ArchToTileProjectile.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwBwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T19:25:49.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T19:25:49.226Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EnterPoint.cs",
               "DocumentMoniker": "C:\\Users\\\u042F\u043D\u0430 \u041F\u0443\u0441\u0438\u043D\u0430\\CSharpMainProjectMyFork\\Assets\\Scripts\\EnterPoint.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnterPoint.cs",
@@ -132,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "DefaultEnemyUnitBrain.cs",
               "DocumentMoniker": "C:\\Users\\\u042F\u043D\u0430 \u041F\u0443\u0441\u0438\u043D\u0430\\CSharpMainProjectMyFork\\Assets\\Scripts\\UnitBrains\\Enemy\\DefaultEnemyUnitBrain.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UnitBrains\\Enemy\\DefaultEnemyUnitBrain.cs",
@@ -144,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DebugPathOutput.cs",
               "DocumentMoniker": "C:\\Users\\\u042F\u043D\u0430 \u041F\u0443\u0441\u0438\u043D\u0430\\CSharpMainProjectMyFork\\Assets\\Scripts\\UnitBrains\\Pathfinding\\DebugPathOutput.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UnitBrains\\Pathfinding\\DebugPathOutput.cs",
@@ -156,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "DefaultPlayerUnitBrain.cs",
               "DocumentMoniker": "C:\\Users\\\u042F\u043D\u0430 \u041F\u0443\u0441\u0438\u043D\u0430\\CSharpMainProjectMyFork\\Assets\\Scripts\\UnitBrains\\Player\\DefaultPlayerUnitBrain.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UnitBrains\\Player\\DefaultPlayerUnitBrain.cs",
@@ -168,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Agent.cs",
               "DocumentMoniker": "C:\\Users\\\u042F\u043D\u0430 \u041F\u0443\u0441\u0438\u043D\u0430\\CSharpMainProjectMyFork\\Assets\\UnityTechnologies\\TowerDefenseTemplate\\Scripts\\TowerDefense\\Agents\\Agent.cs",
               "RelativeDocumentMoniker": "Assets\\UnityTechnologies\\TowerDefenseTemplate\\Scripts\\TowerDefense\\Agents\\Agent.cs",
@@ -180,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "SimulationController.cs",
               "DocumentMoniker": "C:\\Users\\\u042F\u043D\u0430 \u041F\u0443\u0441\u0438\u043D\u0430\\CSharpMainProjectMyFork\\Assets\\Scripts\\Controller\\SimulationController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\SimulationController.cs",
